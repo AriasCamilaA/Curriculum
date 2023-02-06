@@ -61,23 +61,23 @@ h1 {
     width: 50%;
 }
 
-nav {
+.menu {
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
 }
 
-nav li {
+.menu li {
     display: flex;
     padding: 20px;
 }
 
-nav a {
+.menu a {
     color: #fff;
 }
 
-nav li:hover {
+.menu li:hover {
     background-color: #4b486d;
 }
 
